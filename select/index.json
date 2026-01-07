@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Escalate",
+  "base_artist": "IRyS",
+  "createdAt": "2026-01-07T06:21:52.373537Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "escalate",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_escalate_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ESCALATE",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/02_ESCALATE_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ESCALATE",
+      "artist": "KODA KUMI",
+      "has_synced": true,
+      "path": "select/03_ESCALATE_KODA_KUMI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "escalate (TV Size)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_escalate_(TV_Size)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "escalate",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/05_escalate_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Escalate",
+      "artist": "Morning Teleportation",
+      "has_synced": true,
+      "path": "select/06_Escalate_Morning_Teleportation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Video Clip Show / Escalate",
+      "artist": "Ikara Colt",
+      "has_synced": false,
+      "path": "select/07_Video_Clip_Show___Escalate_Ikara_Colt.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Escalate",
+      "artist": "Ikara Colt",
+      "has_synced": false,
+      "path": "select/08_Escalate_Ikara_Colt.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Escalate Discord",
+      "artist": "Skinless",
+      "has_synced": true,
+      "path": "select/09_Escalate_Discord_Skinless.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "escalate",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_escalate_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Escalate",
+      "artist": "IRyS",
+      "has_synced": false,
+      "path": "select/pl_01_Escalate_IRyS.txt"
+    }
+  ]
+}
